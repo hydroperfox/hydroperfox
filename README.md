@@ -1,6 +1,6 @@
 <a href="https://github.com/whackengine" target="_blank">
 
-<img src="https://github.com/user-attachments/assets/d130fe34-b37d-45dc-8f62-f50ce95a98c2" alt="Whack" width="128">
+<img src="https://github.com/user-attachments/assets/7b0e4a89-376b-4804-b754-946bbb2910ea" alt="Whack" width="128">
 
 View Whack™ engine organisation
 
